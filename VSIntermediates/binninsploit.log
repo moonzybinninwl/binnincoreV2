@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(533,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(534,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     Creating library ..\Base\Base.lib and object ..\Base\Base.exp
+Base.exp : warning LNK4070: /OUT:WebView2Loader.dll directive in .EXP differs from output filename '..\Base\Base.dll'; ignoring directive
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 8113 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+Base.exp : warning LNK4070: /OUT:WebView2Loader.dll directive in .EXP differs from output filename '..\Base\Base.dll'; ignoring directive
+  binninsploit.vcxproj -> C:\Users\User\Desktop\Projects\Open Sourced Module\Base\Base.dll

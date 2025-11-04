@@ -1,0 +1,193 @@
+﻿  Server.cpp
+  auth.cpp
+  cookies.cpp
+  cprtypes.cpp
+  digest.cpp
+  error.cpp
+C:\Users\User\Desktop\binsploit\Module\Exploit\Server\Server.cpp(1,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\auth.cpp(10,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\cookies.cpp(30,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\cprtypes.cpp(15,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\digest.cpp(10,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\error.cpp(69,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  multipart.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\multipart.cpp(8,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  parameters.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\parameters.cpp(31,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  payload.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\payload.cpp(21,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  proxies.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\proxies.cpp(22,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  session.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\session.cpp(479,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ssl_options.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\ssl_options.cpp(12,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  timeout.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\timeout.cpp(27,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  util.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cpr\src\util.cpp(81,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  base642.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\cryptopp\include\cryptopp\base642.cpp(285,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Allocator.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Ast\src\Allocator.cpp(67,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Ast.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Ast\src\Ast.cpp(1377,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Confusables.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Ast\src\Confusables.cpp(1825,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Cst.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Ast\src\Cst.cpp(296,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Lexer.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Ast\src\Lexer.cpp(1342,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
+  Compiling...
+  Location.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Ast\src\Location.cpp(56,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Parser.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Ast\src\Parser.cpp(4457,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  PrettyPrinter.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Ast\src\PrettyPrinter.cpp(1916,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  StringUtils.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Ast\src\StringUtils.cpp(299,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  TimeTrace.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Ast\src\TimeTrace.cpp(279,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  BuiltinFolding.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Compiler\src\BuiltinFolding.cpp(543,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Builtins.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Compiler\src\Builtins.cpp(571,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  BytecodeBuilder.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Compiler\src\BytecodeBuilder.cpp(2615,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Compiler.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Compiler\src\Compiler.cpp(4504,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ConstantFolding.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Compiler\src\ConstantFolding.cpp(722,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CostModel.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Compiler\src\CostModel.cpp(434,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lcode.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Compiler\src\lcode.cpp(55,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  TableShape.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Compiler\src\TableShape.cpp(159,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Types.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Compiler\src\Types.cpp(812,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ValueTracking.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\Compiler\src\ValueTracking.cpp(112,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lapi.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lapi.cpp(1666,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  laux.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\laux.cpp(616,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lbaselib.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lbaselib.cpp(517,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lbitlib.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lbitlib.cpp(247,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lbuffer.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lbuffer.cpp(25,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
+  Compiling...
+  lbuflib.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lbuflib.cpp(367,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lbuiltins.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lbuiltins.cpp(1958,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lcorolib.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lcorolib.cpp(270,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ldblib.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\ldblib.cpp(183,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ldebug.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\ldebug.cpp(616,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ldo.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\ldo.cpp(45,9): warning C4005: 'LUAU_SETJMP': macro redefinition
+  lfunc.cpp
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\ldo.cpp(42,9):
+      see previous definition of 'LUAU_SETJMP'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\ldo.cpp(46,9): warning C4005: 'LUAU_LONGJMP': macro redefinition
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\ldo.cpp(43,9):
+      see previous definition of 'LUAU_LONGJMP'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\ldo.cpp(882,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lfunc.cpp(232,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lgc.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lgc.cpp(1314,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lgcdebug.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lgcdebug.cpp(918,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  linit.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\linit.cpp(96,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lmathlib.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmathlib.cpp(487,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lmem.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(94,9): warning C4005: 'ASAN_POISON_MEMORY_REGION': macro redefinition
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(91,9):
+      see previous definition of 'ASAN_POISON_MEMORY_REGION'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(95,9): warning C4005: 'ASAN_UNPOISON_MEMORY_REGION': macro redefinition
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(92,9):
+      see previous definition of 'ASAN_UNPOISON_MEMORY_REGION'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(106,9): warning C4005: 'ABISWITCH': macro redefinition
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(104,9):
+      see previous definition of 'ABISWITCH'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(108,9): warning C4005: 'ABISWITCH': macro redefinition
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(106,9):
+      see previous definition of 'ABISWITCH'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(111,9): warning C4005: 'ABISWITCH': macro redefinition
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(108,9):
+      see previous definition of 'ABISWITCH'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(206,9): warning C4005: 'debugpageset': macro redefinition
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(204,9):
+      see previous definition of 'debugpageset'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lmem.cpp(689,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lnumprint.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lnumprint.cpp(370,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lobject.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lobject.cpp(164,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  loslib.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\loslib.cpp(226,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lperf.cpp
+  lstate.cpp
+  lstring.cpp
+  lstrlib.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lperf.cpp(63,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lstate.cpp(249,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lstring.cpp(194,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lstrlib.cpp(1681,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ltable.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\ltable.cpp(860,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
+  Compiling...
+  ltablib.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\ltablib.cpp(628,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ltm.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\ltm.cpp(163,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ludata.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\ludata.cpp(44,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lutf8lib.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lutf8lib.cpp(297,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lveclib.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lveclib.cpp(369,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lvmexecute.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lvmexecute.cpp(110,9): warning C4005: 'VM_USE_CGOTO': macro redefinition
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lvmexecute.cpp(108,9):
+      see previous definition of 'VM_USE_CGOTO'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lvmexecute.cpp(126,9): warning C4005: 'VM_CASE': macro redefinition
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lvmexecute.cpp(122,9):
+      see previous definition of 'VM_CASE'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lvmexecute.cpp(127,9): warning C4005: 'VM_NEXT': macro redefinition
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lvmexecute.cpp(123,9):
+      see previous definition of 'VM_NEXT'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lvmexecute.cpp(128,9): warning C4005: 'VM_CONTINUE': macro redefinition
+      C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lvmexecute.cpp(124,9):
+      see previous definition of 'VM_CONTINUE'
+  
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lvmexecute.cpp(302,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lvmload.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lvmload.cpp(653,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lvmutils.cpp
+C:\Users\User\Desktop\binsploit\Module\Dependencies\Luau\VM\src\lvmutils.cpp(639,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  EntryPoint.cpp
+C:\Users\User\Desktop\binsploit\Module\EntryPoint.cpp(20,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
