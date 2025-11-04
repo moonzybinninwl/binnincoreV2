@@ -46,7 +46,7 @@ It comes with all necessities that you need for a Roblox internal. It includes t
 
 ## Contact
 
-[![Discord](https://img.shields.io/badge/Discord-Moonzy-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/1237327253520515134)
+[![Discord](https://img.shields.io/badge/Discord-binninwl_-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/1237327253520515134)
 
 
 git clone https://github.com/binninwl/binnincoreV2.git
