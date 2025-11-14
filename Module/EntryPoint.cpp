@@ -38,7 +38,6 @@ void MainThread()
 {
 	Service::Initialize();
 }
-
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD reason, LPVOID reserved)
 {
 	if (reason == 1)
